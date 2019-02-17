@@ -1,2 +1,2 @@
 # ZYNQ_Ultrascale-_imageProcessing
-Set up an image processing system on Ultra96
+Set up a distributed image processing system on Ultra96 from separate WIFI camera sensors
